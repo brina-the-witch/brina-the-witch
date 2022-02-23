@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brina-the-witch
+- 👋 Hi, I’m @salamber
 - 👀 I’m interested in natural language processing (nlp), machine learning (ml), playing the drums, and cars
 - 🌱 I’m currently learning nlp, ml
 - 💞️ I’m looking to collaborate on the future of computational linguistics
